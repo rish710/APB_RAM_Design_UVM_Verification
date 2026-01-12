@@ -45,6 +45,7 @@ APB_RAM_UVM/
 ├── testbench.sv   # UVM-based verification environment
 └── README.md
 ---
+```
 
 ## Design Overview
 The APB RAM is built around a small **finite state machine (FSM)** that tracks the APB phases.  
